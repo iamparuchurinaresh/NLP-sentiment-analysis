@@ -1,0 +1,11 @@
+Review_Text,Sentiment
+"This product is amazing",Positive
+"Very poor quality item",Negative
+"I really love this product",Positive
+"Not worth the money",Negative
+"Excellent quality and fast delivery",Positive
+"Terrible experience with this product",Negative
+"Highly recommended",Positive
+"Completely disappointed",Negative
+"Great product for the price",Positive
+"Will not buy again",Negative
